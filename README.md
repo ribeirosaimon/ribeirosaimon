@@ -11,6 +11,11 @@
 <a href="https://instagram.com/saimon-silva-a3a6b61a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saimon-silva-a3a6b61a9" height="30" width="40" /></a>
 </p>
 
+<div>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=saimonfga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="saimonfga" />
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=saimonfga&theme=dark&date_format=j%2Fn%5B%2FY%5D" alt="saimonfga" />
+</div>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
