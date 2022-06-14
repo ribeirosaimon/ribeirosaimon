@@ -12,12 +12,8 @@
 </p>
 
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirosaimon&layout=compact"> 
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guedesou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> 
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
