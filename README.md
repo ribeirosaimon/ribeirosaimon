@@ -11,7 +11,7 @@
 <a href="https://instagram.com/saimonribeiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saimon-silva-a3a6b61a9" height="30" width="40" /></a>
 </p>
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirosaimon)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ribeirosaimon&show_icons=true&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ribeirosaimon&show_icons=true&theme=radical)
 
