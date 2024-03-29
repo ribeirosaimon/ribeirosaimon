@@ -1,19 +1,3 @@
-<style>
-  .slideLeft {
-    position: absolute;
-    animation: slideToLeft 5s linear infinite;
-  }
-
-  @keyframes slideToLeft {
-    0% {
-      left: 0;
-    }
-    100% {
-      left: -100%;
-    }
-  }
-</style>
-
 <h1 align="center">Hi 👋, I'm Saimon</h1>
 <h3 align="center">backend developer from Brazil</h3>
 
@@ -25,13 +9,6 @@
 <a href="https://twitter.com/saimonfga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saimonfga" height="30" width="40" /></a>
 <a href="https://instagram.com/saimonribeiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saimon-silva-a3a6b61a9" height="30" width="40" /></a>
 </p>
-
-
-<div class="slideLeft">
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="50" height="50"/>
-  </a>
-</div>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ribeirosaimon&show_icons=true&theme=radical)
 
