@@ -2,8 +2,8 @@
 <h3 align="center">backend developer from Brazil</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ribeirosaimon&label=Profile%20views&color=0e75b6&style=flat" alt="ribeirosaimon" /> </p>
+<p align="center"> - 📫 How to reach me **saimonribeiros@hotmail.com** </p>
 
-- 📫 How to reach me **saimonribeiros@hotmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
