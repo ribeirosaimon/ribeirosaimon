@@ -14,18 +14,18 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirosaimon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Languages:</h3>
-<p align="left">
+<h3 align="center">Languages:</h3>
+<p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
   </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60"/>
+    <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="80" height="60"/>
   </a>
 
-<h3 align="left">Frame:</h3>
+<h3 align="center">Frame:</h3>
 
  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="80" height="40"/>
   </a>
 
   <h3 align="left">Database:</h3>
