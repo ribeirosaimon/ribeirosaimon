@@ -44,7 +44,12 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elastic" width="40" height="40"/>
+  </a>
+    <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="elastic" width="40" height="40"/>
+  </a>
 </p>
   
   <h3 align="center">Others:</h3>
